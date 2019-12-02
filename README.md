@@ -12,7 +12,7 @@ This repository contains code that is used to solve the [riddles](https://advent
 ## [Day 1](https://adventofcode.com/2019/day/1)
 Build [AdventOfCodeDay1](https://github.com/BigETI/AdventOfCode/tree/master/AdventOfCodeDay1), then get the input values from [https://adventofcode.com/2019/day/1/input](https://adventofcode.com/2019/day/1/input) and save as `mass.txt`.
 
-After that execute the build to get results.
+After that execute your build to get results.
 
 ### Part 1
 ```BASH
@@ -30,6 +30,8 @@ AdventOfCodeDay1 --calculate-with-fuel-mass < mass.txt
 
 ## [Day 2](https://adventofcode.com/2019/day/2)
 Build [AdventOfCodeDay2](https://github.com/BigETI/AdventOfCode/tree/master/AdventOfCodeDay2), then get the input values from [https://adventofcode.com/2019/day/2/input](https://adventofcode.com/2019/day/2/input) and save as `intcode.txt`.
+
+After that execute your build to get results.
 
 ### Part 1
 ```BASH
