@@ -25,6 +25,7 @@ namespace AdventOfCodeDay1
                 if ((trimmed_arg == "-c") || (trimmed_arg == "--calculate-with-fuel-mass"))
                 {
                     calculate_with_fuel_mass = true;
+                    break;
                 }
             }
             FuelCalculator fuel_calculator = new FuelCalculator(calculate_with_fuel_mass);
