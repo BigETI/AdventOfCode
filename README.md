@@ -14,3 +14,5 @@ This repository contains code that is used to solve the [riddles](https://advent
 ## [Advent of Code - Day 2](https://github.com/BigETI/AdventOfCode/blob/master/AdventOfCodeDay2/README.md)
 
 ## [Advent of Code - Day 3](https://github.com/BigETI/AdventOfCode/blob/master/AdventOfCodeDay3/README.md)
+
+## [Advent of Code - Day 4](https://github.com/BigETI/AdventOfCode/blob/master/AdventOfCodeDay4/README.md)
