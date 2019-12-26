@@ -3,12 +3,12 @@ Build [AdventOfCodeDay2](https://github.com/BigETI/AdventOfCode/tree/master/Adve
 
 After that execute your build to get results.
 
-### Part 1
+## Part 1
 ```BASH
 AdventOfCodeDay2 < intcode.txt
 ```
 
-### Part 2
+## Part 2
 ```BASH
 AdventOfCodeDay2 -f < intcode.txt
 ```
