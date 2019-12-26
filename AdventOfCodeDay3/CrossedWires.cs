@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 /// <summary>
-/// Advent Of Code - Day 3 namespace
+/// Advent of Code - Day 3 namespace
 /// </summary>
 namespace AdventOfCodeDay3
 {
